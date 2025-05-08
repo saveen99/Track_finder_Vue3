@@ -1,6 +1,7 @@
 # :warning: The project is currently under development and has not yet been completed.
 
 
+
 ## Track_Finder Vite + Vue 3
 
 This template should help get you started developing with Vue 3 in Vite.
